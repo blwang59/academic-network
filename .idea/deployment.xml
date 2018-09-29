@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="servers210">
+    <serverData>
+      <paths name="Copy of project-level server 'servers210'">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wbl" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="servers210">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wbl" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
